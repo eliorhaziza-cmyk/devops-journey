@@ -7,3 +7,4 @@
 
 ## Goals
 - Build a Dockerized Flask app with CI/CD by end of week
+## Tools I am learning: Git, Docker, GitHub Actions
